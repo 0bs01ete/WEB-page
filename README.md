@@ -46,8 +46,8 @@
   <div class="container">
    <div class="header">Junior QA</div>
    <div class="sidebar">
-    <p>Телефон:</p>
-    <p>E-mail:</p>    
+    <p>Телефон: +79283654795</p>
+    <p>E-mail: dimon-dem@mail.ru</p>    
    </div>
    <div class="content">
     <h2>Доброго времени суток</h2>
@@ -67,7 +67,7 @@
 Они позволят быстро включится в рабочий процесс и стать хорошим специалистом.
 </p>
 </div>
-<div class="footer">&copy;</div>
+<div class="footer"></div>
 </div>
 </body>
 </html>
